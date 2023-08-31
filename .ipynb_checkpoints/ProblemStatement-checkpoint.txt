@@ -1,0 +1,2 @@
+Predicting Academic Success with Feature Insights:
+Build a model to predict students' academic success based on historical performance and other attributes. Use SHAP analysis to explain how individual factors (study habits, attendance, socioeconomic status) influence academic outcomes.
